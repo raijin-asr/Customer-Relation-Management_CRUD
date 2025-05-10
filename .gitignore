@@ -61,3 +61,8 @@ CRM_CRUD/obj/Debug/net8.0/staticwebassets/msbuild.build.CRM_CRUD.props
 CRM_CRUD/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CRM_CRUD.props
 CRM_CRUD/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CRM_CRUD.props
 CRM_CRUD/obj/Debug/net8.0/staticwebassets/msbuild.CRM_CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+CRM_CRUD/obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+CRM_CRUD/obj/Release/net8.0/CRM_CRUD.assets.cache
+CRM_CRUD/obj/Release/net8.0/CRM_CRUD.csproj.AssemblyReference.cache
+CRM_CRUD/obj/Release/net8.0/CRM_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+CRM_CRUD/obj/Release/net8.0/CRM_CRUD.GlobalUsings.g.cs

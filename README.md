@@ -6,3 +6,4 @@ Customer Relation Management CRUD using Asp.net and Sql Server
 
     Day 1: Create and Setup project, Database
     Day 2: Add Create and Retrieve Operation
+    Day 3: Implement Delete and Edit Operation

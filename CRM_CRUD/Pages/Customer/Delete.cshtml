@@ -1,0 +1,21 @@
+﻿@page
+@model CRM_CRUD.Pages.Customer.DeleteModel
+@{
+}
+
+<div class="mx-auto rounded border p-4" style="width:450px">
+    <h2 class="text-center mb-3">Delete Customer</h2>
+    <hr/>
+    <p>Do you really want to delete customer with id @Request.Query["id"]?</p>
+    <hr/>
+    <form method="post">
+        <div class="row">
+            <div class="col-sm-6 d-grid">
+                <button type="submit" class="btn btn-danger">Delete</button>
+            </div>
+            <div class="col-sm-6 d-grid">
+                <a href="/Customer/Index" class="btn btn-outline-primary">Cancel</a>
+            </div>
+        </div>
+    </form>
+</div>

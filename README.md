@@ -1,6 +1,8 @@
 # Customer-Relation-Management_CRUD
-
 Customer Relation Management CRUD using Asp.net and Sql Server
+</br>
+
+<img src="https://socialify.git.ci/raijin-asr/Customer-Relation-Management_CRUD/image?language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Customer-Relation-Management_CRUD" width="840" height="320" />
 
 # Things i've learned and implemented(day wise)
 
